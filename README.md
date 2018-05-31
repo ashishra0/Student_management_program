@@ -10,3 +10,5 @@ To run the program
 $ git clone <repo>
 $ ruby script.rb
 ```
+
+> NOTE: Data was populated using Faker Gem, hence every time the program is run different names will appear.
